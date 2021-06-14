@@ -2,7 +2,7 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   position: fixed;
   top: 0;
   left: 0;
@@ -15,41 +15,115 @@
   color: white;
   filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.301));
 
+  .linkLogoHeader {
+    width: 160px;
+    cursor: pointer;
+  }
+
   nav {
     display: flex;
-    justify-content: space-between;
-    width: 100%;
 
-    .linkLogoHeader {
-      height: 50px;
-      cursor: pointer;
-    }
-  }
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      list-style: none;
   
-  ul {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    list-style: none;
-
-    li {
-      margin: 0 10px;
-
-      a {
-        text-decoration: none;
-
-        &:after {
-          display: block;
-          content: '';
-          border-bottom: 3px solid white;
-          transform: scale(0);
-          transition: transform 400ms ease;
-        }
-        
-        &:hover:after {
-          transform: scale(1);
+      li {
+        margin: 0 10px;
+  
+        a {
+          text-decoration: none;
+  
+          &:after {
+            display: block;
+            content: '';
+            border-bottom: 3px solid white;
+            transform: scale(0);
+            transition: transform 400ms ease;
+          }
+          
+          &:hover:after {
+            transform: scale(1);
+          }
         }
       }
+    }
+  }
+
+  .hamburger {
+    display: none;
+    z-index: 10000;
+    position: relative;
+
+    .div1, .div2, .div3 {
+      width: 25px;
+      height: 2px;
+      background-color: white;
+      margin: 6px 0;
+      animation-name: teste;
+
+      &.active {
+        background-color: black;
+        transition: all 400ms ease-in;
+        transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+        &.div2 {
+          display: none;
+        }
+
+        &.div1 {
+          transform: rotate(-45deg) translate(-2px, 2px);
+        }
+
+        &.div3 {
+          transform: rotate(45deg) translate(-4px, -4px);
+        }
+      }
+    }
+  }
+
+  .menuMobile {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: absolute;
+    top: 0;
+    right: 0;
+    visibility: hidden;
+    height: 100vh;
+    color: black;
+    background-color: rgb(235, 235, 235);
+    filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.301));
+
+    &.active {
+      visibility: visible;
+    }
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+      width: 100%;
+      list-style: none;
+      margin-top: 70px;
+
+      li {
+        padding: 10px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1050px) {
+  .header {
+
+    .nav {
+      display: none;
+    }
+
+    .hamburger {
+      display: block;
     }
   }
 }
