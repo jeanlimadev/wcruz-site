@@ -1,0 +1,30 @@
+
+.container {
+  max-width: 1440px;
+
+  .whatsapp {
+    position: fixed;
+    width: 40px;
+    bottom: 50px;
+    right: 15px;
+    animation: balance 3000ms infinite ease;
+  }
+}
+
+@keyframes balance {
+  0% {
+    transform: rotate(6deg);
+  }
+  25% {
+    transform: rotate(-6deg);
+  }
+  50% {
+    transform: rotate(6deg);
+  }
+  75% {
+    transform: rotate(-6deg);
+  }
+  100% {
+    transform: rotate(6deg);
+  }
+}

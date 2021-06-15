@@ -34,13 +34,25 @@ const Header = () => {
                 <a>Produtos</a>
               </Link>
             </li>
+            <li>
+              <Link href="#">
+                <a>Contato</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="#">
+                <a>Localização</a>
+              </Link>
+            </li>
           </ul>
         </nav>
+
         <div className={styles.hamburger} onClick={handleBurger}>
           <div className={`${styles.div1} ${menuBurgerActive && styles.active}`}></div>
           <div className={`${styles.div2} ${menuBurgerActive && styles.active}`}></div>
           <div className={`${styles.div3} ${menuBurgerActive && styles.active}`}></div>
         </div>
+        
         <div className={`${styles.menuMobile} ${menuBurgerActive && styles.active}`}>
           <ul>
               <li>
@@ -58,6 +70,16 @@ const Header = () => {
                   <a>Produtos</a>
                 </Link>
               </li>
+              <li>
+              <Link href="#">
+                <a>Contato</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="#">
+                <a>Localização</a>
+              </Link>
+            </li>
             </ul>
         </div>
       </header>

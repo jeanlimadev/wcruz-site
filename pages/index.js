@@ -23,64 +23,69 @@ const Home = () => {
 
   return (
     <TemplateDefault>
-      <section className={styles.home}>
-        <div className={styles.swiper}>
-          <Swiper
-            centeredSlides={true}
-            autoplay={{
-              "delay": 7000,
-              "disableOnInteraction": false
-            }}
-            pagination={{"clickable": true}}
-            navigation={true}
-            className={styles.mySwiper}>
+      <div className={styles.container}>
+        <Swiper
+          centeredSlides={true}
+          autoplay={{
+            "delay": 7000,
+            "disableOnInteraction": false
+          }}
+          pagination={{"clickable": true}}
+          navigation={true}
+          className={styles.swiper}>
 
-            <SwiperSlide>
-              <div className={styles.box}>
-                <img 
-                  src="/images/homecenoura.jpg"
-                />
-                <div className={styles.text}>
-                  <span className={styles.textImg}>Texto de teste</span>
-                </div>
+          <SwiperSlide>
+            <div className={styles.box}>
+              <img 
+                src="/images/homecenoura.jpg"
+              />
+              <div className={styles.text}>
+                <span className={styles.textImg}>Mercadorias de qualidade</span>
               </div>
-            </SwiperSlide>
+            </div>
+          </SwiperSlide>
 
-            <SwiperSlide>
-              <div className={styles.box}>
-                <img 
-                  src="/images/cenouras.jpg"
-                />
-                <div className={styles.text}>
-                  <span className={styles.textImg}>Texto de teste</span>
-                </div>
+          <SwiperSlide>
+            <div className={styles.box}>
+              <img 
+                src="/images/cenouras.jpg"
+              />
+              <div className={styles.text}>
+                <span className={styles.textImg}>Produção própria</span>
               </div>
-            </SwiperSlide>
+            </div>
+          </SwiperSlide>
 
-            <SwiperSlide>
-              <div className={styles.box}>
-                <img 
-                  src="/images/beterrabas.jpg"
-                />
-                <div className={styles.text}>
-                  <span className={styles.textImg}>Texto de teste</span>
-                </div>
+          <SwiperSlide>
+            <div className={styles.box}>
+              <img 
+                src="/images/beterrabas.jpg"
+              />
+              <div className={styles.text}>
+                <span className={styles.textImg}>Direto do produtor</span>
               </div>
-            </SwiperSlide>
+            </div>
+          </SwiperSlide>
 
-            <SwiperSlide>
-              <div className={styles.box}>
-                <img 
-                  src="/images/batatadoce.jpg"
-                />
-                <div className={styles.text}>
-                  <span className={styles.textImg}>Texto de teste</span>
-                </div>
+          <SwiperSlide>
+            <div className={styles.box}>
+              <img 
+                src="/images/batatadoce.jpg"
+              />
+              <div className={styles.text}>
+                <span className={styles.textImg}>Qualidade para sua mesa</span>
               </div>
-            </SwiperSlide>
-          </Swiper>
+            </div>
+          </SwiperSlide>
+        </Swiper>
+
+        <div className={styles.welcome}>
+          <h1>Bem-vindo!</h1>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
         </div>
-      </section>
+      </div>
     </TemplateDefault>
   )
 }

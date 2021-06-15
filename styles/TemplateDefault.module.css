@@ -1,0 +1,59 @@
+.container {
+  max-width: 1440px;
+}
+
+.container .whatsapp {
+  position: fixed;
+  width: 40px;
+  bottom: 50px;
+  right: 15px;
+  -webkit-animation: balance 3000ms infinite ease;
+          animation: balance 3000ms infinite ease;
+}
+
+@-webkit-keyframes balance {
+  0% {
+    -webkit-transform: rotate(6deg);
+            transform: rotate(6deg);
+  }
+  25% {
+    -webkit-transform: rotate(-6deg);
+            transform: rotate(-6deg);
+  }
+  50% {
+    -webkit-transform: rotate(6deg);
+            transform: rotate(6deg);
+  }
+  75% {
+    -webkit-transform: rotate(-6deg);
+            transform: rotate(-6deg);
+  }
+  100% {
+    -webkit-transform: rotate(6deg);
+            transform: rotate(6deg);
+  }
+}
+
+@keyframes balance {
+  0% {
+    -webkit-transform: rotate(6deg);
+            transform: rotate(6deg);
+  }
+  25% {
+    -webkit-transform: rotate(-6deg);
+            transform: rotate(-6deg);
+  }
+  50% {
+    -webkit-transform: rotate(6deg);
+            transform: rotate(6deg);
+  }
+  75% {
+    -webkit-transform: rotate(-6deg);
+            transform: rotate(-6deg);
+  }
+  100% {
+    -webkit-transform: rotate(6deg);
+            transform: rotate(6deg);
+  }
+}
+/*# sourceMappingURL=TemplateDefault.module.css.map */
