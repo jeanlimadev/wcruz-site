@@ -82,27 +82,28 @@
   height: 2px;
   background-color: white;
   margin: 6px 0;
-  -webkit-animation-name: teste;
-          animation-name: teste;
+  -webkit-transition: all 300ms ease;
+  transition: all 300ms ease;
 }
 
 .header .hamburger .div1.active, .header .hamburger .div2.active, .header .hamburger .div3.active {
-  -webkit-transition: all 700ms ease;
-  transition: all 700ms ease;
+  -webkit-transition: all 300ms ease;
+  transition: all 300ms ease;
 }
 
 .header .hamburger .div1.active.div2, .header .hamburger .div2.active.div2, .header .hamburger .div3.active.div2 {
-  display: none;
+  -webkit-transform: translate(500px);
+          transform: translate(500px);
 }
 
 .header .hamburger .div1.active.div1, .header .hamburger .div2.active.div1, .header .hamburger .div3.active.div1 {
-  -webkit-transform: rotate(-45deg) translate(-2px, 2px);
-          transform: rotate(-45deg) translate(-2px, 2px);
+  -webkit-transform: rotate(-45deg) translate(-8px, 2px);
+          transform: rotate(-45deg) translate(-8px, 2px);
 }
 
 .header .hamburger .div1.active.div3, .header .hamburger .div2.active.div3, .header .hamburger .div3.active.div3 {
-  -webkit-transform: rotate(45deg) translate(-4px, -4px);
-          transform: rotate(45deg) translate(-4px, -4px);
+  -webkit-transform: rotate(45deg) translate(-8px, -3px);
+          transform: rotate(45deg) translate(-8px, -3px);
 }
 
 .header .menuMobile {

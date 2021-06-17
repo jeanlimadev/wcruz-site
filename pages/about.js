@@ -4,9 +4,40 @@ import TemplateDefault from '../templates/Default'
 const about = () => {
   return (
     <TemplateDefault>
-      <section className={styles.about}>
-        <h1>Sobre nós</h1>
-      </section>
+      <div className={styles.container}>
+        <div className={styles.banner}>
+          <img src="/images/cenouras.jpg" />
+          <div className={styles.box}>
+            <h2>A Wcruz</h2>
+            <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            </p>
+            <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            </p>
+          </div>
+        </div>
+        <div className={styles.cards}>
+          <div className={styles.card}>
+            <h2>Missão</h2>
+            <p>
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+            </p>
+          </div>
+          <div className={styles.card}>
+            <h2>Visão</h2>
+            <p>
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+            </p>
+          </div>
+          <div className={styles.card}>
+            <h2>Valores</h2>
+            <p>
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+            </p>
+          </div>
+        </div>
+      </div>
     </TemplateDefault>
   )
 }

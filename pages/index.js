@@ -26,6 +26,7 @@ const Home = () => {
       <div className={styles.container}>
         <Swiper
           centeredSlides={true}
+          loop={true}
           autoplay={{
             "delay": 7000,
             "disableOnInteraction": false

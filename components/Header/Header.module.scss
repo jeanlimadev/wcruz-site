@@ -61,21 +61,21 @@
       height: 2px;
       background-color: white;
       margin: 6px 0;
-      animation-name: teste;
+      transition: all 400ms ease;
 
       &.active {
-        transition: all 700ms ease;
+        transition: all 400ms ease;
 
         &.div2 {
-          display: none;
+          transform: translate(500px);
         }
 
         &.div1 {
-          transform: rotate(-45deg) translate(-2px, 2px);
+          transform: rotate(-45deg) translate(-8px, 2px);
         }
 
         &.div3 {
-          transform: rotate(45deg) translate(-4px, -4px);
+          transform: rotate(45deg) translate(-8px, -3px);
         }
       }
     }
@@ -92,7 +92,7 @@
     background-color: rgb(116, 47, 47);
     color: white;
     filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.301));
-    transition: all 400ms ease-in;
+    transition: all 400ms ease;
 
     &.active {
       right: 0;
