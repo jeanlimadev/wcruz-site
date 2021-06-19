@@ -34,11 +34,6 @@ const Header = () => {
                 <a>Produtos</a>
               </Link>
             </li>
-            <li>
-              <Link href="#">
-                <a>Contato</a>
-              </Link>
-            </li>
           </ul>
         </nav>
 
@@ -65,11 +60,6 @@ const Header = () => {
                   <a>Produtos</a>
                 </Link>
               </li>
-              <li>
-              <Link href="#">
-                <a>Contato</a>
-              </Link>
-            </li>
             </ul>
         </div>
       </header>

@@ -1,4 +1,4 @@
-import styles from '../styles/About.module.css'
+import styles from '../styles/about.module.css'
 import TemplateDefault from '../templates/Default'
 
 const about = () => {

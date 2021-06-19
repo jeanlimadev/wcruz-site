@@ -1,7 +1,7 @@
 
 import TemplateDefault from '../templates/Default'
 
-import styles from '../styles/Home.module.css'
+import styles from '../styles/home.module.css'
 
 import { Swiper, SwiperSlide } from "swiper/react"
 
@@ -41,7 +41,7 @@ const Home = () => {
                 src="/images/homecenoura.jpg"
               />
               <div className={styles.text}>
-                <span className={styles.textImg}>Mercadorias de qualidade</span>
+                <span className={styles.textImg}>Lorem ipsum</span>
               </div>
             </div>
           </SwiperSlide>
@@ -52,7 +52,7 @@ const Home = () => {
                 src="/images/cenouras.jpg"
               />
               <div className={styles.text}>
-                <span className={styles.textImg}>Produção própria</span>
+                <span className={styles.textImg}>Lorem ipsum</span>
               </div>
             </div>
           </SwiperSlide>
@@ -63,7 +63,7 @@ const Home = () => {
                 src="/images/beterrabas.jpg"
               />
               <div className={styles.text}>
-                <span className={styles.textImg}>Direto do produtor</span>
+                <span className={styles.textImg}>Lorem ipsum</span>
               </div>
             </div>
           </SwiperSlide>
@@ -74,7 +74,7 @@ const Home = () => {
                 src="/images/batatadoce.jpg"
               />
               <div className={styles.text}>
-                <span className={styles.textImg}>Qualidade para sua mesa</span>
+                <span className={styles.textImg}>Lorem ipsum</span>
               </div>
             </div>
           </SwiperSlide>
@@ -89,7 +89,16 @@ const Home = () => {
           </div>
           <img src="images/lavador-wcruz-home.jpeg" alt="wcruz" />
         </div>
+        <div className={styles.local}>
+          <h2>Localização</h2>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3695.3896741392527!2d-42.80121318547264!3d-22.14923428540221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9815c24909e149%3A0xe7b072f2be14fe5f!2sWcruz!5e0!3m2!1spt-BR!2sbr!4v1624122822067!5m2!1spt-BR!2sbr"
+            allowfullscreen=""
+            loading="lazy"
+          />
+        </div>
       </div>
+      
     </TemplateDefault>
   )
 }
