@@ -2,6 +2,7 @@
 .container {
   max-width: 1440px;
   background-color: rgb(230,230,230);
+  padding-top: 60px;
 
   .whatsapp {
     position: fixed;
@@ -13,19 +14,10 @@
 }
 
 @keyframes balance {
-  0% {
+  0%, 50%, 100% {
     transform: rotate(6deg);
   }
-  25% {
+  25%, 75% {
     transform: rotate(-6deg);
-  }
-  50% {
-    transform: rotate(6deg);
-  }
-  75% {
-    transform: rotate(-6deg);
-  }
-  100% {
-    transform: rotate(6deg);
   }
 }
