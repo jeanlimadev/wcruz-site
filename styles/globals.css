@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.swiper-button-prev::after ,
+.swiper-button-next::after {
+  color: white;
+}
+
+.swiper-pagination .swiper-pagination-bullet {
+  background-color: white;
+}

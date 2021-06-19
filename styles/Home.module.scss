@@ -42,14 +42,22 @@
 
   .welcome {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    margin: 50px auto;
     width: 90%;
 
-    h1 {
-      margin-bottom: 0;
+    .text {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      margin-right: 20px;
+    }
+
+    img {
+      width: 600px;
     }
   }
 
