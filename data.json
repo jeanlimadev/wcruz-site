@@ -1,8 +1,8 @@
 [
 {
-    "nota": "6315",
-    "vencimento": "2022-01-11",
-    "valor": "105,50",
+    "nota": "5171",
+    "vencimento": "2021-11-13",
+    "valor": "1235,00",
     "nome": "AYRES FRANCA GALLO",
     "cep": "25985010",
     "is_pforpj": "PF",
@@ -10,9 +10,9 @@
     "endereco": "ESTRADA AGUA QUENTE"
 },
 {
-    "nota": "6316",
-    "vencimento": "2022-01-21",
-    "valor": "1900,00",
+    "nota": "5172",
+    "vencimento": "2021-11-23",
+    "valor": "2040,00",
     "nome": "DOIS AMIGOS DE TERESOPOLIS DISTRIBUIDORA",
     "cep": "25995415",
     "is_pforpj": "PJ",
@@ -20,9 +20,309 @@
     "endereco": "EST JOAO ADOLFO TAYT-SOHN"
 },
 {
-    "nota": "6318",
-    "vencimento": "2022-01-21",
-    "valor": "700,00",
+    "nota": "5173",
+    "vencimento": "2021-11-25",
+    "valor": "400,00",
+    "nome": "DOIS AMIGOS DE TERESOPOLIS DISTRIBUIDORA",
+    "cep": "25995415",
+    "is_pforpj": "PJ",
+    "pforpj": "21776506000167",
+    "endereco": "EST JOAO ADOLFO TAYT-SOHN"
+},
+{
+    "nota": "5174",
+    "vencimento": "2021-11-13",
+    "valor": "200,00",
+    "nome": "VILMA DA CRUZ JORGE",
+    "cep": "25985010",
+    "is_pforpj": "PF",
+    "pforpj": "08358239700",
+    "endereco": "ESTRADA AGUA QUENTE"
+},
+{
+    "nota": "5175",
+    "vencimento": "2021-11-09",
+    "valor": "374,00",
+    "nome": "SUPERMERCADO MAIS POR MENOS LTDA",
+    "cep": "36660000",
+    "is_pforpj": "PJ",
+    "pforpj": "38723243000120",
+    "endereco": "RUA BARAO DE SAO GERALDO"
+},
+{
+    "nota": "5176",
+    "vencimento": "2021-12-08",
+    "valor": "5700,00",
+    "nome": "AILTON DA SILVA GOMES FILHO",
+    "cep": "25995630",
+    "is_pforpj": "PF",
+    "pforpj": "14918077765",
+    "endereco": "ESTRADA INDEPENDENTE"
+},
+{
+    "nota": "5177",
+    "vencimento": "",
+    "valor": "",
+    "nome": "DISTRIBUIDORA DE HORTIFRUTIGRANJEIROS IR",
+    "cep": "25976040",
+    "is_pforpj": "PJ",
+    "pforpj": "31479974000123",
+    "endereco": "EST RIO BAHIA"
+},
+{
+    "nota": "5178",
+    "vencimento": "2021-12-28",
+    "valor": "5360,00",
+    "nome": "JOSE WALLACE TAYT SOHN CORREA",
+    "cep": "25985010",
+    "is_pforpj": "PF",
+    "pforpj": "05755003793",
+    "endereco": "ESTRADA AGUA QUENTE"
+},
+{
+    "nota": "5180",
+    "vencimento": "2021-12-01",
+    "valor": "2030,00",
+    "nome": "BARCELOS LEGUMES E VERDURAS LTDA",
+    "cep": "25995292",
+    "is_pforpj": "PJ",
+    "pforpj": "34320678000173",
+    "endereco": "ESTRADA DOUTOR ROGERIO DE MOURA ESTEVAO"
+},
+{
+    "nota": "5181",
+    "vencimento": "2021-11-13",
+    "valor": "296,00",
+    "nome": "IMPERIO DA SERRA COMERCIO DE FRUTAS E LE",
+    "cep": "25620180",
+    "is_pforpj": "PJ",
+    "pforpj": "07739028000194",
+    "endereco": "PC DR. SA EARP FILHO"
+},
+{
+    "nota": "5182",
+    "vencimento": "2021-11-13",
+    "valor": "370,00",
+    "nome": "IMPERIO DA SERRA COMERCIO DE FRUTAS E LE",
+    "cep": "25615411",
+    "is_pforpj": "PJ",
+    "pforpj": "07739028000607",
+    "endereco": "RUA PAULO BARBOSA"
+},
+{
+    "nota": "5183",
+    "vencimento": "2021-11-13",
+    "valor": "259,00",
+    "nome": "DSOUZA DISTRIBUIDORA DE FRUTAS E LEGUMES",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "42556341000198",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5184",
+    "vencimento": "2021-12-06",
+    "valor": "1140,00",
+    "nome": "MERCADO R. C. BONSUCESSO MERCADO, MOVEIS",
+    "cep": "25995290",
+    "is_pforpj": "PJ",
+    "pforpj": "11181164000189",
+    "endereco": "ESTR TERESOPOLIS FRIBURGO KM28"
+},
+{
+    "nota": "5185",
+    "vencimento": "2021-11-16",
+    "valor": "9350,00",
+    "nome": "VALDAIR PINHEIRO BRUGGER",
+    "cep": "28637000",
+    "is_pforpj": "PF",
+    "pforpj": "02976832765",
+    "endereco": "ESTR LAVRAS"
+},
+{
+    "nota": "5186",
+    "vencimento": "2021-11-08",
+    "valor": "6510,00",
+    "nome": "JAJA E JUNIOR AGRONEGOCIOS EIRELI",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "37645136000169",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5187",
+    "vencimento": "2021-11-15",
+    "valor": "9517,00",
+    "nome": "JAJA E JUNIOR AGRONEGOCIOS EIRELI",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "37645136000169",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5188",
+    "vencimento": "2021-11-22",
+    "valor": "5247,00",
+    "nome": "JAJA E JUNIOR AGRONEGOCIOS EIRELI",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "37645136000169",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5189",
+    "vencimento": "2021-11-29",
+    "valor": "5530,00",
+    "nome": "JAJA E JUNIOR AGRONEGOCIOS EIRELI",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "37645136000169",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5190",
+    "vencimento": "2021-12-06",
+    "valor": "8345,00",
+    "nome": "JAJA E JUNIOR AGRONEGOCIOS EIRELI",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "37645136000169",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5191",
+    "vencimento": "2021-12-02",
+    "valor": "7650,00",
+    "nome": "COOPERATIVA DE AGRICULTORES E AGRICULTOR",
+    "cep": "26600000",
+    "is_pforpj": "PJ",
+    "pforpj": "30248992000131",
+    "endereco": "EST MANOEL ALVES"
+},
+{
+    "nota": "5199",
+    "vencimento": "2021-12-02",
+    "valor": "716,80",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36700000",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000526",
+    "endereco": "R ACACIO SERPA"
+},
+{
+    "nota": "5200",
+    "vencimento": "2021-12-02",
+    "valor": "1083,60",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36700000",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000100",
+    "endereco": "R JOSE PERES"
+},
+{
+    "nota": "5201",
+    "vencimento": "2021-12-02",
+    "valor": "245,90",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36707220",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000950",
+    "endereco": "R MARECHAL HUMBERTO CASTELO BRANCO"
+},
+{
+    "nota": "5202",
+    "vencimento": "2021-12-02",
+    "valor": "966,80",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36770071",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000445",
+    "endereco": "PC GOVERNADOR VALADARES"
+},
+{
+    "nota": "5203",
+    "vencimento": "2021-12-02",
+    "valor": "195,90",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36700000",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000607",
+    "endereco": "R FAJARDO"
+},
+{
+    "nota": "5204",
+    "vencimento": "2021-12-02",
+    "valor": "170,90",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36770220",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000798",
+    "endereco": "R LEOGEDIO CARLOS DA SILVA"
+},
+{
+    "nota": "5205",
+    "vencimento": "2021-12-02",
+    "valor": "245,90",
+    "nome": "CARRARO ROCHA LTDA",
+    "cep": "36740000",
+    "is_pforpj": "PJ",
+    "pforpj": "21999396000879",
+    "endereco": "R SAO JOAQUIM"
+},
+{
+    "nota": "5206",
+    "vencimento": "2021-11-16",
+    "valor": "185,00",
+    "nome": "IMPERIO DA SERRA COMERCIO DE FRUTAS E LE",
+    "cep": "25620180",
+    "is_pforpj": "PJ",
+    "pforpj": "07739028000194",
+    "endereco": "PC DR. SA EARP FILHO"
+},
+{
+    "nota": "5207",
+    "vencimento": "2021-11-16",
+    "valor": "370,00",
+    "nome": "IMPERIO DA SERRA COMERCIO DE FRUTAS E LE",
+    "cep": "25615411",
+    "is_pforpj": "PJ",
+    "pforpj": "07739028000607",
+    "endereco": "RUA PAULO BARBOSA"
+},
+{
+    "nota": "5208",
+    "vencimento": "2021-11-16",
+    "valor": "111,00",
+    "nome": "IMPERIO DA SERRA COMERCIO DE FRUTAS E LE",
+    "cep": "25620002",
+    "is_pforpj": "PJ",
+    "pforpj": "07739028000275",
+    "endereco": "R DO IMPERADOR"
+},
+{
+    "nota": "5209",
+    "vencimento": "2021-11-16",
+    "valor": "555,00",
+    "nome": "DSOUZA DISTRIBUIDORA DE FRUTAS E LEGUMES",
+    "cep": "25985010",
+    "is_pforpj": "PJ",
+    "pforpj": "42556341000198",
+    "endereco": "EST AGUA QUENTE"
+},
+{
+    "nota": "5210",
+    "vencimento": "2021-11-16",
+    "valor": "843,00",
+    "nome": "AYRES FRANCA GALLO",
+    "cep": "25985010",
+    "is_pforpj": "PF",
+    "pforpj": "10238455718",
+    "endereco": "ESTRADA AGUA QUENTE"
+},
+{
+    "nota": "5211",
+    "vencimento": "2021-11-26",
+    "valor": "1115,00",
     "nome": "JOAO PAULO DE ANDRADE MARTUCHELLI",
     "cep": "25977400",
     "is_pforpj": "PF",
@@ -30,13 +330,163 @@
     "endereco": "ESTRADA DOUTOR ROGERIO DE MOURA ESTEVAO"
 },
 {
-    "nota": "6324",
-    "vencimento": "2022-01-28",
-    "valor": "1800,00",
+    "nota": "5212",
+    "vencimento": "2021-11-26",
+    "valor": "2399,00",
+    "nome": "DOIS AMIGOS DE TERESOPOLIS DISTRIBUIDORA",
+    "cep": "25995415",
+    "is_pforpj": "PJ",
+    "pforpj": "21776506000167",
+    "endereco": "EST JOAO ADOLFO TAYT-SOHN"
+},
+{
+    "nota": "5213",
+    "vencimento": "2021-12-08",
+    "valor": "1450,00",
+    "nome": "JFC DISTRIBUIDORA DE PRODUTOS HORTIFRUTI",
+    "cep": "25995290",
+    "is_pforpj": "PJ",
+    "pforpj": "40135028000150",
+    "endereco": "EST TERESOPOLIS FRIBURGO"
+},
+{
+    "nota": "5214",
+    "vencimento": "2021-11-16",
+    "valor": "200,00",
+    "nome": "VILMA DA CRUZ JORGE",
+    "cep": "25985010",
+    "is_pforpj": "PF",
+    "pforpj": "08358239700",
+    "endereco": "ESTRADA AGUA QUENTE"
+},
+{
+    "nota": "5215",
+    "vencimento": "2021-11-30",
+    "valor": "1120,00",
     "nome": "VITTA RIO DISTRIBUICAO DE ALIMENTOS EIRE",
     "cep": "21041140",
     "is_pforpj": "PJ",
     "pforpj": "36393185000199",
     "endereco": "R OLGA"
+},
+{
+    "nota": "5216",
+    "vencimento": "2021-12-02",
+    "valor": "1040,00",
+    "nome": "VITTA RIO DISTRIBUICAO DE ALIMENTOS EIRE",
+    "cep": "21041140",
+    "is_pforpj": "PJ",
+    "pforpj": "36393185000199",
+    "endereco": "R OLGA"
+},
+{
+    "nota": "5217",
+    "vencimento": "",
+    "valor": "",
+    "nome": "R. B. BERTOLOTO CIA. LTDA.",
+    "cep": "28637000",
+    "is_pforpj": "PJ",
+    "pforpj": "28219699000102",
+    "endereco": "R JOAO AMANCIO"
+},
+{
+    "nota": "5218",
+    "vencimento": "",
+    "valor": "",
+    "nome": "DISTRIBUIDORA DE HORTIFRUTIGRANJEIROS IR",
+    "cep": "25976040",
+    "is_pforpj": "PJ",
+    "pforpj": "31479974000123",
+    "endereco": "EST RIO BAHIA"
+},
+{
+    "nota": "5219",
+    "vencimento": "2021-11-11",
+    "valor": "925,00",
+    "nome": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANI",
+    "cep": "25900001",
+    "is_pforpj": "PJ",
+    "pforpj": "39508023000147",
+    "endereco": "PC GETULIO VARGAS"
+},
+{
+    "nota": "5220",
+    "vencimento": "2021-11-11",
+    "valor": "185,00",
+    "nome": "CHAMY FRUTAS HORTIFRUTIGRANJEIROS LTDA",
+    "cep": "25900094",
+    "is_pforpj": "PJ",
+    "pforpj": "11282075000129",
+    "endereco": "R DOUTOR SIQUEIRA"
+},
+{
+    "nota": "5221",
+    "vencimento": "2021-12-10",
+    "valor": "3800,00",
+    "nome": "AILTON DA SILVA GOMES FILHO",
+    "cep": "25995630",
+    "is_pforpj": "PF",
+    "pforpj": "14918077765",
+    "endereco": "ESTRADA INDEPENDENTE"
+},
+{
+    "nota": "5222",
+    "vencimento": "2021-11-11",
+    "valor": "185,00",
+    "nome": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANI",
+    "cep": "25953005",
+    "is_pforpj": "PJ",
+    "pforpj": "39508023000813",
+    "endereco": "AV ALMIRANTE LUCIO MEIRA"
+},
+{
+    "nota": "5223",
+    "vencimento": "2021-11-11",
+    "valor": "185,00",
+    "nome": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANI",
+    "cep": "28800000",
+    "is_pforpj": "PJ",
+    "pforpj": "39508023000570",
+    "endereco": "RUA XV DE NOVEMBRO"
+},
+{
+    "nota": "5224",
+    "vencimento": "2021-11-11",
+    "valor": "74,00",
+    "nome": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANI",
+    "cep": "25685231",
+    "is_pforpj": "PJ",
+    "pforpj": "39508023000309",
+    "endereco": "RUA TREZE DE MAIO"
+},
+{
+    "nota": "5225",
+    "vencimento": "2021-11-11",
+    "valor": "148,00",
+    "nome": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANI",
+    "cep": "28940090",
+    "is_pforpj": "PJ",
+    "pforpj": "39508023000228",
+    "endereco": "R DR ANTONIO ALVES"
+},
+{
+    "nota": "5226",
+    "vencimento": "2021-11-11",
+    "valor": "370,00",
+    "nome": "TERE HORTIFRUTI COMERCIO DE ALIMENTOS E ",
+    "cep": "25946244",
+    "is_pforpj": "PJ",
+    "pforpj": "09000343000120",
+    "endereco": "AV DEDO DE DEUS"
+},
+{
+    "nota": "5227",
+    "vencimento": "2021-11-11",
+    "valor": "370,00",
+    "nome": "TERE FRUTAS COMERCIO DE ALIMENTOS E PANI",
+    "cep": "25931762",
+    "is_pforpj": "PJ",
+    "pforpj": "39508023000490",
+    "endereco": "R SANTA ELISA"
 },
 {"jean":"otario"}]
