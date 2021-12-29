@@ -1,38 +1,42 @@
 [
 {
-    "numero": "6315",
+    "nota": "6315",
     "vencimento": "2022-01-11",
     "valor": "105.00",
     "nome": "AYRES FRANCA GALLO",
     "cep": "25985010",
     "is_pforpj": "PF",
-    "pforpj": "10238455718"
+    "pforpj": "10238455718",
+    "endereco": "ESTRADA AGUA QUENTE"
 },
 {
-    "numero": "6316",
+    "nota": "6316",
     "vencimento": "2022-01-21",
     "valor": "1900.00",
     "nome": "DOIS AMIGOS DE TERESOPOLIS DISTRIBUIDORA",
     "cep": "25995415",
     "is_pforpj": "PJ",
-    "pforpj": "21776506000167"
+    "pforpj": "21776506000167",
+    "endereco": "EST JOAO ADOLFO TAYT-SOHN"
 },
 {
-    "numero": "6318",
+    "nota": "6318",
     "vencimento": "2022-01-21",
     "valor": "700.00",
     "nome": "JOAO PAULO DE ANDRADE MARTUCHELLI",
     "cep": "25977400",
     "is_pforpj": "PF",
-    "pforpj": "10312657757"
+    "pforpj": "10312657757",
+    "endereco": "ESTRADA DOUTOR ROGERIO DE MOURA ESTEVAO"
 },
 {
-    "numero": "6324",
+    "nota": "6324",
     "vencimento": "2022-01-28",
     "valor": "1800.00",
     "nome": "VITTA RIO DISTRIBUICAO DE ALIMENTOS EIRE",
     "cep": "21041140",
     "is_pforpj": "PJ",
-    "pforpj": "36393185000199"
-}
-]
+    "pforpj": "36393185000199",
+    "endereco": "R OLGA"
+},
+{"jean":"otario"}]
