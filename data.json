@@ -2,7 +2,7 @@
 {
     "nota": "6315",
     "vencimento": "2022-01-11",
-    "valor": "105.00",
+    "valor": "105,00",
     "nome": "AYRES FRANCA GALLO",
     "cep": "25985010",
     "is_pforpj": "PF",
@@ -12,7 +12,7 @@
 {
     "nota": "6316",
     "vencimento": "2022-01-21",
-    "valor": "1900.00",
+    "valor": "1900,00",
     "nome": "DOIS AMIGOS DE TERESOPOLIS DISTRIBUIDORA",
     "cep": "25995415",
     "is_pforpj": "PJ",
@@ -22,7 +22,7 @@
 {
     "nota": "6318",
     "vencimento": "2022-01-21",
-    "valor": "700.00",
+    "valor": "700,00",
     "nome": "JOAO PAULO DE ANDRADE MARTUCHELLI",
     "cep": "25977400",
     "is_pforpj": "PF",
@@ -32,7 +32,7 @@
 {
     "nota": "6324",
     "vencimento": "2022-01-28",
-    "valor": "1800.00",
+    "valor": "1800,00",
     "nome": "VITTA RIO DISTRIBUICAO DE ALIMENTOS EIRE",
     "cep": "21041140",
     "is_pforpj": "PJ",
